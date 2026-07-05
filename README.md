@@ -5,7 +5,7 @@ Android programmer for SPI Flash and STM32 devices. Read, write and verify embed
 
 Last updated: 2026-06-20
 
-[Download EC-FusionKit.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit-v1.13.4.apk)
+[Download EC-FusionKit.apk](https://github.com/EmbeddedChan/EC-FusionKit/raw/main/apk/EC-FusionKit.apk)
 
 
 This app is currently not available on Google Play.

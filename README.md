@@ -18,3 +18,9 @@ Thank you for helping improve this project!
 ## 🖼 UI Preview
 
 ![Screen 1](images/Screenshot_9.jpg)
+
+## 📦 Version History
+
+
+### v1.13.4
+- Initial release
